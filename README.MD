@@ -9,7 +9,7 @@ loading_acoustic.ipynb : loading minute-level data and calculate Fourier coeffic
 datarolling.ipynb : utilize past information for the last 5 days instead of 1 day.
 
 
-Other files: the implementation of hyperopt and XGBoost.
+Other files: the implementation of hyperopt and XGBoost on different feature selections.
 
 
 

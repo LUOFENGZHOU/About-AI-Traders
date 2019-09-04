@@ -19,4 +19,5 @@ ou_simu.py : simulate OU process.
 
 run_new.py : the main model in "Learning to Trade via Direct Reinforcement" and its modification, implements of hyperopt in searching the optimal hyperparameter.
 
+
 simu_test.py : conduct simulation test for many times.
